@@ -1,5 +1,5 @@
 # GMM with rational expectations: Кривая Филлипса для открытой экономики (в том числе для заработных плат)
-### Владимир Ерёмин @vladandmir97, Михаил Гареев @mkhlgrv
+### Владимир Ерёмин [@vladandmir97](https://github.com/vladandmir97), Михаил Гареев [@mkhlgrv](https://github.com/mkhlgrv)
 ### РАНХиГС, магистратура Экономика и Финансы, 1 курс, весна 2020
 
 Источники:
